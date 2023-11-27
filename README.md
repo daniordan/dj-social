@@ -1,2 +1,2 @@
 # dj-social
-Social Django App
+Social Outer Space Fan Community project / social media website for fans of things that have to do with outer spaces, built using Django and Python. Features: create groups on various topics (e.g. SpaceX, NASA, Pluto, etc.), create posts in groups, users can leave and join other groups, groups (similar to sub-reddits), multiple users and authorizations, post in groups (similar to a tweet), linking user profiles. Includes SQLite database for storing and managing user and app data, user authentication, posts and groups.
